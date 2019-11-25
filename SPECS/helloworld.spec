@@ -1,11 +1,11 @@
 Name:           helloworld
-Version:        1.1
+Version:        2.0
 Release:        1%{?dist}
 Summary:        A hello world program
 
 License:        GPLv3+
 URL:            https://blog.packagecloud.io
-Source0:        helloworld-1.0.tar.gz
+Source0:        helloworld-2.0.tar.gz
 
 Requires(post): info
 Requires(preun): info
